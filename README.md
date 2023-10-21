@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning all I can
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on well anything I can
-- 📫 How to reach me https://www.linkedin.com/in/ahmet-faruk-%C3%A7ullu-57112ab3/
+- 📫 How to reach me ahmetfarukcullu@gmail.com
 
 <!---
 AhmetFarukCullu/AhmetFarukCullu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
